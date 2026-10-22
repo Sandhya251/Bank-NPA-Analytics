@@ -112,7 +112,6 @@ This result means that the analysis did not find sufficient statistical evidence
 - PSU banks showed higher year-over-year NPA-ratio volatility than Private Sector Banks in the analysis.
 - Comparing NPA ratios with loan-book size helped identify banks that may warrant closer monitoring.
 
-*Figures are based on the project's cleaned dataset and analytical definitions.*
 
 ## Power BI Dashboards
 
